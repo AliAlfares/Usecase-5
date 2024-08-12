@@ -15,3 +15,4 @@
     What are the higher specializations salary?
     What jobs are specifically targeting Female?
 
+streamlit : https://appgit-qyzhtzrgzabdvlzn2iycwr.streamlit.app/
